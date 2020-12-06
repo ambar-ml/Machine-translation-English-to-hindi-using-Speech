@@ -7,6 +7,6 @@
 
 4.For hindi fasttext word embeddings have been used.
 
-5.For english glove2vec embediings have been used.
+5.For english glove2vec embeddings have been used.
 
 
